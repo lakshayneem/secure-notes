@@ -19,7 +19,7 @@ A full-stack web app to securely create, edit, and manage personal notes. Built 
 ## 🔧 Tech Stack
 
 **Frontend:** React.js (Vite), Tailwind CSS, React Router, Axios  
-**Backend:** Node.js, Express.js, MongoDB, Mongoose, Bcrypt, JWT, Helmet
+**Backend:** Node.js, Express.js, MongoDB, Mongoose, Bcrypt, JWT
 
 ---
 
