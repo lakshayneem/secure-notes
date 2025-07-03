@@ -1,0 +1,4 @@
+secure-notes-frontend/node_modules/
+secure-notes-backend/node_modules/
+secure-notes-backend/.env
+secure-notes-frontend/dist/
