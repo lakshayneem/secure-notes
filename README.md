@@ -75,28 +75,28 @@ Open: `http://localhost:5173`
 ### 🏠 Home Page  
 Minimal and distraction-free welcome page with secure messaging focus.
 
-![Home](./screenshots/Screenshot_6-7-2025_103610_localhost.jpeg)
+![Home](./screenshots/home.jpeg)
 
 ---
 
 ### 📝 Sign Up Page  
 Register with username, email, and password — clean and centered form.
 
-![Signup](./screenshots/Screenshot_6-7-2025_103626_localhost.jpeg)
+![Signup](./screenshots/signup.jpeg)
 
 ---
 
 ### 🔐 Login Page  
 Secure login interface with sleek dark styling.
 
-![Login](./screenshots/Screenshot_6-7-2025_103635_localhost.jpeg)
+![Login](./screenshots/login.jpeg)
 
 ---
 
 ### 📓 Notes Dashboard  
 Sidebar-based navigation with live add/edit/delete of notes.
 
-![Notes](./screenshots/Screenshot_6-7-2025_104937_localhost.jpeg)
+![Notes](./screenshots/dashboard.jpeg)
   
 
 ---
