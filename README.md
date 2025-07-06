@@ -72,7 +72,32 @@ Open: `http://localhost:5173`
 
 ## 📸 UI Preview
 
-> 
+### 🏠 Home Page  
+Minimal and distraction-free welcome page with secure messaging focus.
+
+![Home](./screenshots/Screenshot_6-7-2025_103610_localhost.jpeg)
+
+---
+
+### 📝 Sign Up Page  
+Register with username, email, and password — clean and centered form.
+
+![Signup](./screenshots/Screenshot_6-7-2025_103626_localhost.jpeg)
+
+---
+
+### 🔐 Login Page  
+Secure login interface with sleek dark styling.
+
+![Login](./screenshots/Screenshot_6-7-2025_103635_localhost.jpeg)
+
+---
+
+### 📓 Notes Dashboard  
+Sidebar-based navigation with live add/edit/delete of notes.
+
+![Notes](./screenshots/Screenshot_6-7-2025_104937_localhost.jpeg)
+  
 
 ---
 
@@ -83,7 +108,7 @@ Open: `http://localhost:5173`
 - 💬 Toast notifications
 - 🌗 Light/Dark mode toggle
 
----
+
 
 ## 👨‍💻 Author
 
